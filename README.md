@@ -28,4 +28,4 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 ## Authors
 
-- Franzua Plasencia([@plasenca])
+- Franzua Plasencia([@plasenca]("https://github.com/plasenca"))
